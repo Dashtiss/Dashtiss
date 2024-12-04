@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dashtiss&label=Profile%20views&color=0e75b6&style=flat" alt="dashtiss" /> </p>
 
-- 🔭 I’m currently working on [Xmrig clones](https://github.com/Dashtiss/xmrig)
+- 🔭 I’m currently working on [A Python Chess AI](https://github.com/Dashtiss/Chess-AI)
 
 - 🌱 I’m currently learning **Flask, discord.py, Java, C++, and Swift**
 
